@@ -50,3 +50,8 @@ The link diagnostic component is explicitly consent-based and should only be use
 ## Important notes
 
 IP geolocation is approximate. An IP address does **not** provide a person's exact home address, and VPNs, mobile networks, proxies and carrier NAT can make location information inaccurate.
+
+## EXTRA
+
+its called ip tracker because in main.py it has a good iptracker 
+but in Tracker_v1.py it just has some extra tools 
