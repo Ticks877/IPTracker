@@ -38,7 +38,6 @@ sudo apt install python3
 
 IP geolocation is approximate. An IP address does **not** provide a person's exact home address, and VPNs, mobile networks, proxies and carrier NAT can make location information inaccurate.
 
-Use IPTracker only for IP addresses you are authorized to investigate. The project does not perform port scanning, device exploitation, or attempts to identify private individuals.
 
 ## API
 
